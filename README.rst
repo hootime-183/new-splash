@@ -41,3 +41,7 @@ Commercial support is also available by `Scrapinghub`_.
 .. _create a question issue: https://github.com/scrapinghub/splash/issues/new?labels=question
 .. _Scrapinghub: https://scrapinghub.com
 .. _scrapy-splash library: https://github.com/scrapy-plugins/scrapy-splash
+
+以上是原版介绍
+
+new-splash诞生于code.jqury.com无法访问的环境下，将部分js地址换为了国内地址。
