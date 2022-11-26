@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-#Changed by Hootime Technology
 import os
 import re
 from setuptools import setup
